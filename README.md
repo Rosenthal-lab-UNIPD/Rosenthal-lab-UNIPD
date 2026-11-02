@@ -16,7 +16,7 @@ We study the intersections of genomics, morphology, and field biology. This GitH
 3. Use our [Project Template](link_to_template) to start your own thesis or rotation project repository.
 
 ## 🤝 Contact & PI
-* **Principal Investigator:** Dr. [Gil Rosenthal]
-* **Lab Location:** University of [Padova], Room ###
-* **Website:** [(https://www.unipd.it/contatti/gil.rosenthal) , (https://www.swordtail.raycui.com/en/index.html)]
+* **Principal Investigator:** Dr. Gil Rosenthal
+* **Lab Location:** University of Padova, 4th floor ###
+* **Website:** https://www.unipd.it/contatti/gil.rosenthal , https://www.swordtail.raycui.com/en/index.html
 
