@@ -1,4 +1,4 @@
-# Welcome to the Rosenthal Lab! 🧬🐟🌊[:sunrise_over_mountains:]
+# Welcome to the Rosenthal Lab! 🧬🐟🌊🌄 
 
 We study Animal Communication, behavioral ecology, and evolutionary genetics. We use an interdisciplinary approach that combines genomics, phenotyping, morphology, and field biology. This GitHub organization serves as our central hub for code, data pipelines, and reproducible protocols. In this repository, all lab members will store detailed information about the projects they work on and are involved in. For confidential code that will become packages, fork it from your own GitHub repository to keep it private, since this organization repository is public. But please fork it so you can track ongoing projects.
 
