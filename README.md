@@ -1,8 +1,8 @@
-# Rosenthal-lab-UNIPD
-In this repository, all lab members will store detailed information about the projects they work on and are involved in. For confidential code that will become packages, fork it from your own GitHub repository to keep it private, since this organization repository is public. But please fork it so you can track ongoing projects.
-# Welcome to the Rosenthal Lab! 🧬🐟🌊:sunrise_over_mountains:
+# Welcome to the Rosenthal Lab! 🧬🐟🌊[:sunrise_over_mountains:]
 
-We study the intersections of genomics, morphology, and field biology. This GitHub organization serves as our central hub for code, data pipelines, and reproducible protocols.
+We study Animal Communication, behavioral ecology, and evolutionary genetics. We use an interdisciplinary approach that combines genomics, phenotyping, morphology, and field biology. This GitHub organization serves as our central hub for code, data pipelines, and reproducible protocols. In this repository, all lab members will store detailed information about the projects they work on and are involved in. For confidential code that will become packages, fork it from your own GitHub repository to keep it private, since this organization repository is public. But please fork it so you can track ongoing projects.
+
+Our lab's research focuses on mate choice and its consequences: we seek to understand how female preferences and male sexual signals work and how they evolve, and, in turn, the role mate choice and signaling play in shaping basic ecological and evolutionary processes. Our primary focus is on visual and chemical communication in teleost fishes, although students have worked on a wide variety of topics. 
 
 ## 📁 Core Resources
 * 📖 [Lab Manual & Onboarding](link_to_manual_repo) - Read this first if you are a new member!
